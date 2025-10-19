@@ -1,0 +1,258 @@
+{
+    "boardData": [
+        {
+            "Type": "Free Parking",
+            "Name": "Free Parking",
+            "Colour": null,
+            "Price": null,
+            "Rent" : null
+            
+        },
+        {
+            "Type": "Property",
+            "Name": "Strand",
+            "Colour": "Red",
+            "Price": 220,
+            "Rent": 18
+        },
+        {
+            "Type": "Property",
+            "Name": "Trafalgar Sq",
+            "Colour": "Red",
+            "Price": 240,
+            "Rent": 20
+        },
+        {
+            "Type": "Station",
+            "Name": "Fenchurch St Stn",
+            "Colour": null,
+            "Price": 200,
+            "Rent": 25
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Leicester Sq",
+            "Colour": "Yellow",
+            "Price": 260,
+            "Rent": 22
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Coventry St",
+            "Colour": "Yellow",
+            "Price": 260,
+            "Rent": 22
+
+        },
+        {
+            "Type": "Utility",
+            "Name": "Water Works",
+            "Colour": null,
+            "Price": 150,
+            "Rent" : 10
+            
+        },
+        {
+            "Type": "Property",
+            "Name": "Piccadilly",
+            "Colour": "Yellow",
+            "Price": 280,
+            "Rent": 22
+
+        },
+        {
+            "Type": "Jail",
+            "Name": "GO TO JAIL",
+            "Colour": null,
+            "Price": null,
+            "Rent" : null
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Regent St",
+            "Colour": "Green",
+            "Price": 300,
+            "Rent": 26
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Oxford St",
+            "Colour": "Green",
+            "Price": 300,
+            "Rent": 26
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Bond St",
+            "Colour": "Green",
+            "Price": 320,
+            "Rent": 28
+
+        },
+        {
+            "Type": "Station",
+            "Name": "Liverpool St Stn",
+            "Colour": null,
+            "Price": 200,
+            "Rent": 25
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Park Ln",
+            "Colour": "Dark Blue",
+            "Price": 350,
+            "Rent": 35
+
+        },
+        {
+            "Type": "Tax",
+            "Name": "Super Tax",
+            "Colour": null,
+            "Price": 150,
+            "Rent": null
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Mayfair",
+            "Colour": "Dark Blue",
+            "Price": 400,
+            "Rent": 50
+
+        },
+        {
+            "Type": "GO",
+            "Name": "GO",
+            "Colour": null,
+            "Price": -50,
+            "Rent": null
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Old Kent Rd",
+            "Colour": "Brown",
+            "Price": 60,
+            "Rent": 2
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Whitechapel Rd",
+            "Colour": "Brown",
+            "Price": 60,
+            "Rent": 4
+        },
+        {
+            "Type": "Tax",
+            "Name": "Income Tax",
+            "Colour": null,
+            "Price": 250,
+            "Rent": null
+
+        },
+        {
+            "Type": "Station",
+            "Name": "King's Cross Stn",
+            "Colour": null,
+            "Price": 200,
+            "Rent": 25
+
+        },
+        {
+            "Type": "Property",
+            "Name": "The Angel Islington",
+            "Colour": "Light Blue",
+            "Price": 100,
+            "Rent": 6
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Euston Rd",
+            "Colour": "Light Blue",
+            "Price": 100,
+            "Rent": 6
+
+        },
+        {
+           "Type": "Property",
+            "Name": "Pentonville Rd",
+            "Colour": "Light Blue",
+            "Price": 120,
+            "Rent": 8
+
+        },
+        {
+            "Type": "Jail",
+            "Name": "IN JAIL",
+            "Colour": null,
+            "Price": null,
+            "Rent": null
+
+        },
+        {
+            "Type": "Utility",
+            "Name": "Electric Company",
+            "Colour": null,
+            "Price": 150,
+            "Rent": 10
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Whitehall",
+            "Colour": "Pink",
+            "Price": 140,
+            "Rent": 10
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Northumberland Ave",
+            "Colour": "Pink",
+            "Price": 160,
+            "Rent": 12
+
+        },
+        {
+            "Type": "Station",
+            "Name": "Marylebone Stn",
+            "Colour": null,
+            "Price": 200,
+            "Rent": 25
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Bow St",
+            "Colour": "Orange",
+            "Price": 180,
+            "Rent": 14
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Marlborough St",
+            "Colour": "Orange",
+            "Price": 180,
+            "Rent": 14
+
+        },
+        {
+            "Type": "Property",
+            "Name": "Vine St",
+            "Colour": "Orange",
+            "Price": 200,
+            "Rent": 16 
+
+        }
+        
+    ]
+}
